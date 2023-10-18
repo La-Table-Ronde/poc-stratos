@@ -29,7 +29,7 @@ GRAPHQL_QUERY = """
 
 # Headers
 HEADERS = {
-    "x-token": "9b970db2-9fde-4501-a80f-ba5b66b6afcc",
+    "x-token": "PUT_YOUR_API_TOKEN_HERE",
 }
 
 def download_mp3(url, filename="temp.mp3"):
